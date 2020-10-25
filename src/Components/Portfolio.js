@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import placeholder from "../../public/images/placeholder.png"
+import placeholder from "../assets/img/placeholder.png"
 class Portfolio extends Component {
   render() {
 
