@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by 23n <span>♥</span>️</li>
+            <li>Modified with by 23n</li>
            </ul>
 
            <ul className="copyright">
