@@ -27,7 +27,7 @@ class About extends Component {
 
             <p>I am made up of strong character, hardworking, committed towards my goals.I don't settle until i have accomplished my tasks.I can work on assigned tasks with less supervision tagged along with creativity towards projects. <br/>
                 I love Teamwork since learning is part and parcel of it. I believe in the spirit of togetherness duties are accomplished. <br/>
-                Despite my multitask abilities, I am committed to standards of professionalism based on media demands.</p>
+                Despite my multitask abilities, I am committed to standards of professionalism based on current market demands.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
