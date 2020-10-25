@@ -1,31 +1,36 @@
 {
   "main": {
-    "name": "Amandarenea",
-    "occupation": "Journalist",
-    "description": "Hostess / Presenter for both radio and television station.",
+    "name": "Francis J. Tito",
+    "occupation": "Software Designer and Developer",
+    "description": "Software Designer and Developer.",
     "image": "profile-picture.jpeg",
-    "bio": "My name is Amandarenea Nemes Mworia, I'm a Journalist.",
+    "bio": "My name is Francis J. Tito, I'm a Software Designer and Developer.",
     "contactmessage": "Get in touch with me to receive further details or anything else.",
-    "email": "reneanemes@gmail.com",
-    "phone": "+255 714 935 441",
+    "email": "francistito07@gmail.com",
+    "phone": "+255 719 123 671",
     "address": {
-      "street": "Sinza",
+      "street": "Makongo Juu",
       "city": "Dar es Salaam",
       "state": "Tanzania",
-      "zip": "1578"
+      "zip": "1234"
     },
     "website": "https://amandareneaportfolio.netlify.app",
     "resumedownload": "https://drive.google.com/file/d/1ZEupVpAdfnMXqrNHYNBgMej0AUhlHiqO/view?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCxsAjrM5nFFROUjJQVi5TDw",
-        "className": "fa fa-youtube"
+        "name": "github",
+        "url": "https://github.com/dontito94",
+        "className": "fa fa-github"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/mandy.nemes/",
+        "url": "https://instagram.com/titofrancis?igshid=1r9b9ren2auu8",
         "className": "fa fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/francis-tito-605365132",
+        "className": "fa fa-linkedin"
       }
     ]
   },
@@ -33,311 +38,82 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "St. Augustine University of Tanzania",
-        "degree": "Bachelor of Mass Communication and Journalism",
-        "graduated": "July 2019",
-        "description": "Awarded Bachelor Degree of Mass Communication and Journalism"
+        "school": "University of Dar es Salaam",
+        "degree": "Bachelor Degree of Science in Computer Science",
+        "graduated": "July 2017",
+        "description": "Awarded Bachelor Degree of Science in Computer Science"
       }
     ],
     "work": [
       {
-        "company": "Dar24 (Online T.V)",
-        "title": "Producer, Editor && Camera Operator",
-        "years": "2019 - 2020",
-        "description": "Produced and edited health content. Shot interviews and sports content."
+        "company": "Nextbyte ICT Solutions",
+        "title": "Software Developer",
+        "years": "2018 - present",
+        "description": "Software Developer"
       },
       {
-        "company": "Lake F.M (102.5), Mwanza",
-        "title": "News Editor",
-        "years": "2017 - 2019",
-        "description": "Editing news programs."
-      },
-      {
-        "company": "SAUT F.M (96.1), Mwanza",
-        "title": "Producer",
-        "years": "2016 - 2019",
-        "description": "Produced magazine programs, documentaries and feature stories."
+        "company": "UCC",
+        "title": "Software Developer",
+        "years": "January 2018 - July 2018",
+        "description": "Software Developer"
       }
     ],
     "skills": [
-
       {
-        "name": "Program Production",
+        "name": "User Interface Design",
         "level": "100%"
       },
       {
-        "name": "Hostess/Presenter",
+        "name": "Web Development",
         "level": "100%"
       },
       {
-        "name": "Documentary and Stories Production",
+        "name": "Database Design and Management",
         "level": "100%"
       },
       {
-        "name": "Camera Operation",
+        "name": "Object Oriented\nProgramming.",
         "level": "100%"
       },
       {
-        "name": "Adobe Photoshop",
+        "name": "RestAPI",
         "level": "100%"
       },
       {
-        "name": "Adobe Audition",
+        "name": "GraphQL",
         "level": "100%"
       },
       {
-        "name": "Adobe Premiere Pro",
+        "name": "GIT",
         "level": "100%"
       }
     ]
   },
   "portfolio": {
-    "hostedAndEditedByMe": [
+    "works": [
       {
-        "title": "Binti aliyejaribu kujiua mara4/msongo wa mawazo/ magonjwa ya akili",
-        "category": "Health",
-        "image": "hosted-edited-by-me/1.png",
-        "url": "https://www.youtube.com/watch?v=YdPQ2CmFOfc&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=28"
+        "title": "Nextsms",
+        "category": "Software Development",
+        "image": "1.png",
+        "url": "https://nextsms.co.tz"
       },
       {
-        "title": "Haya ndio mazoezi hatari kwa afya/usithubutu kufanya",
-        "category": "Health",
-        "image": "hosted-edited-by-me/2.png",
-        "url": "https://www.youtube.com/watch?v=_4z9hYWfet0&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=27"
+        "title": "Nflip",
+        "category": "Software Development",
+        "image": "1.png",
+        "url": "https://nflip.co.tz"
       },
       {
-        "title": "Yajue mazoezi yakuondoa kitambi kwa wiki 3 tu | zingatia lishe",
-        "category": "Health",
-        "image": "hosted-edited-by-me/3.png",
-        "url": "https://www.youtube.com/watch?v=j0YByoe3aZ8&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=25"
+        "title": "PSMS",
+        "category": "Software Development",
+        "image": "1.png",
+        "url": "https://psms.co.tz"
       },
       {
-        "title": "AFYA TIP: Tazama madafu yanavyosababisha BUSHA",
-        "category": "Health",
-        "image": "hosted-edited-by-me/4.png",
-        "url": "https://www.youtube.com/watch?v=OCUwfVj64M8&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=23"
-      },
-      {
-        "title": "Namna sahihi ya kufanya makeup bila kuadhiri afya ya ngozi",
-        "category": "Health",
-        "image": "hosted-edited-by-me/5.png",
-        "url": "https://www.youtube.com/watch?v=O2k10__Hl2M&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=22"
-      },
-      {
-        "title": "Fahamu kwa kina kuhusu afya ya kinywa | kuoza meno | kinyonya kidole",
-        "category": "Health",
-        "image": "hosted-edited-by-me/6.png",
-        "url": "https://www.youtube.com/watch?v=ZUdfWl_MXMk&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=21"
-      },
-      {
-        "title": "Fahamu njia rahisi ya kulinda penzi lako/ nani alikufunda ?",
-        "category": "Health",
-        "image": "hosted-edited-by-me/7.png",
-        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=20"
-      },
-      {
-        "title": "Ujue ugonjwa wa sickle cell | upimaji waendelea | Mimi sina ila mwanangu anao | hajalogwa",
-        "category": "Health",
-        "image": "hosted-edited-by-me/8.png",
-        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=19"
-      },
-      {
-        "title": "Hofu yatanda juu ya virusi vya Corona | Tanzania hakuna mwathirika | Daktari atoa ufafanuzi",
-        "category": "Health",
-        "image": "hosted-edited-by-me/9.png",
-        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=18"
-      },
-      {
-        "title": "Nyama ya kitimoto chanzo cha kifafa | huduma ya kwanza kwa muathirika | fahamu zaidi juu ya kifafa",
-        "category": "Health",
-        "image": "hosted-edited-by-me/10.png",
-        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=17"
-      },
-      {
-        "title": "Mazoezi muhimu ya kufanya kiafya katika kipindi cha mlipuko wa virusi",
-        "category": "Health",
-        "image": "hosted-edited-by-me/11.png",
-        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=12"
-      },
-      {
-        "title": "Ukweli juu ya Sickle Cell pamoja na lishe | Namna unavyorithishwa | tiba na ushauri (Part 1)",
-        "category": "Health",
-        "image": "hosted-edited-by-me/12.png",
-        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=8"
-      },
-      {
-        "title": "Mwalimu aliyeamua kuachana na ualimu na kuuza MADAFU | Asimulia  | Wazazi wananitegemea ",
-        "category": "Youth",
-        "image": "hosted-edited-by-me/13.png",
-        "url": "https://www.youtube.com/watch?v=K6jNdLNlJoQ&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=69"
-      }
-    ],
-    "shotAndEditedByMe": [
-      {
-        "title": "EXCLUSIVE: Mwenyekiti CCM DAR - WEMA SEPETU anaweza/rushwa ya ngono na siasa  | nilimuachia mume watoto",
-        "category": "Women",
-        "image": "shot-edited-by-me/1.png",
-        "url": "https://www.youtube.com/watch?v=o08I7x-eGlA&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=12"
-      },
-      {
-        "title": "Homa inayoua kwa kasi waathirika wa UKIMWI yapatiwa tiba na watafiti kutoka Tanzania NIMR",
-        "category": "Health",
-        "image": "shot-edited-by-me/2.png",
-        "url": "https://www.youtube.com/watch?v=RwtL59UeEPA&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=16"
-      },
-      {
-        "title": "Njia zipi salama MWANAMKE kusafisha sehemu za SIRI? / Ukoko/ Maji ya mchele/ vitunguu swaumu",
-        "category": "Health & Women",
-        "image": "shot-edited-by-me/3.png",
-        "url": "https://www.youtube.com/watch?v=0Y0yZQ8ijsQ&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=14"
-      },
-      {
-        "title": "Dakika kumi za mazoezi haya mepesi kwa afya / hutahitaji vifaa vyovyote",
-        "category": "Health",
-        "image": "shot-edited-by-me/4.png",
-        "url": "https://www.youtube.com/watch?v=pszuCRz1lN8&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=11"
-      },
-      {
-        "title": "Nash MC: Nilishakataa/ Diamond au Ali Kiba/ Ni kutafutiana mademu/ Nilienda Ujerumani hakuna",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/5.png",
-        "url": "https://www.youtube.com/watch?v=HrdnWPgjsss&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=78"
-      },
-      {
-        "title": "EXCLUSIVE: BARAKA Amchana DUDU BAYA/ DIAMOND / hutaniona WCB kamwe/ALI KIBA sina urafiki, part2",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/6.png",
-        "url": "https://www.youtube.com/watch?v=mdXPTy8ofaQ&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=46"
-      },
-      {
-        "title": "AZMA, Msanii aliyem-DISS ALI KIBA, WEMA SEPETU na MWIJAKU, aeleza chanzo/ DIAMOND TUSIMVUNJE MOYO",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/7.png",
-        "url": "https://www.youtube.com/watch?v=Siaa611YS5U&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=6"
-      },
-      {
-        "title": "Mjeruman anayeimba kiswahili ataja wasanii Ngoma zao zinazopigwa nje/ Diamond/azungumzia kiki muziki",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/8.png",
-        "url": "https://www.youtube.com/watch?v=Or7L04Dig-Y&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=4"
-      },
-      {
-        "title": "Uwanja wa YANGA wa KIGAMBONI ulipofikia / mlinzi atoboa siri",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/9.png",
-        "url": "https://www.youtube.com/watch?v=JGFBovFcD_U&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr"
-      },
-      {
-        "title": "MINGANGE afichua waliyoyafanya AZAM FC akiwa na Idd Cheche",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/10.png",
-        "url": "https://www.youtube.com/watch?v=VsInCEKm40w&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=20"
-      },
-      {
-        "title": "George Weah afunguka MAZITO kwa TFF/YANGA yamkosha kiongozi |wa LIBERIA/ Metacha awa mchezaji bora",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/11.png",
-        "url": "https://www.youtube.com/watch?v=co6ofuKHemw&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=32"
-      },
-      {
-        "title": "Baada ya KMC kuitandika YANGA ujenzi wa UWANJA wao wapamba MOTO / waipania na SIMBA",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/12.png",
-        "url": "https://www.youtube.com/watch?v=cocuzPG4IpE&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=33"
-      },
-      {
-        "title": "KOCHA TANZANIA ATEMA CHECHE TIMU INAMAPUNGUFU WAMETUMIA NGUVU",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/13.png",
-        "url": "https://www.youtube.com/watch?v=EP3gdiRcmbo&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=36"
-      },
-      {
-        "title": "BAKARI MALIMA: Simba walikua wamechoka Kagere umri umekwenda Mechi imewauma sana",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/14.png",
-        "url": "https://www.youtube.com/watch?v=8GfD1dYibkU&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=38"
-      },
-      {
-        "title": "Kocha U 16 afunguka kuhusu LIBERIA / amtaja NDAYIRAGIJE",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/15.png",
-        "url": "https://www.youtube.com/watch?v=ss1RNnPtDY8&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=39"
-      },
-      {
-        "title": "Baada ya SAMATTA sasa ni DILUNGA kwenda ULAYA/ wakala wake adokeza/ataja alipokwama FEI TOTO",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/16.png",
-        "url": "https://www.youtube.com/watch?v=VAKYs-Z8nOs&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=49"
-      },
-      {
-        "title": "Jeshi laanza ujenzi uwanja wa KMC | Utabeba maelfu ya watu na hosteli ndani",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/17.png",
-        "url": "https://www.youtube.com/watch?v=2Yec4CH-gkE&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=87"
-      },
-      {
-        "title": "KMC yadokeza mrithi wa MAYANJA Anaweza kufanya kazi Tutamtangaza 2020 mwaka wetu",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/18.png",
-        "url": "https://www.youtube.com/watch?v=RsLdAnGW1Rs&list=PLLE24u5DIyAYeY_Rh7IBwxKLpCMeuqbwr&index=92"
-      },
-      {
-        "title": "CEO-COSOTA: Kazi feki/ Kariakoo Mjiandae/ Watafsiri filamu/ wasanii kulipwa /Profesa Jay",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/19.png",
-        "url": "https://www.youtube.com/watch?v=hBIITcZYFdo&list=PLLE24u5DIyAa7WU7r4GZPudOECSEa0SM0&index=92"
-      },
-      {
-        "title": "Masumbwi: TPBO inafanya kazi kisheria/ Tunaheshimu taratibu za nchi",
-        "category": "Entertainment",
-        "image": "shot-edited-by-me/20.png",
-        "url": "https://www.youtube.com/watch?v=xKbT8xRz7mw&list=PLLE24u5DIyAa7WU7r4GZPudOECSEa0SM0&index=100"
-      }
-    ],
-    "shotByMe": [
-      {
-        "title": "MCHAWI WA TIMU ASIMULIA: Nilitafuta KABURI la 1995| Tuliwakuta WCB| Nikiwa UCHI wa mnyama",
-        "category": "Reality",
-        "image": "shot-by-me/1.png",
-        "url": "https://www.youtube.com/watch?v=RU0JtQPU-sU&list=PLLE24u5DIyAYz8zgg39kH2bG2rDjm99lo&index=2"
-      },
-      {
-        "title": "PART 2.MCHAWI WA TIMU ASIMULIA; nilitafuta kaburi la 1995 | tuliwakuta WCB | nikiwa UCHI wa mnyama",
-        "category": "Reality",
-        "image": "shot-by-me/2.png",
-        "url": "https://www.youtube.com/watch?v=3WH2zzOix-o&list=PLLE24u5DIyAYz8zgg39kH2bG2rDjm99lo&index=1"
-      }
-    ],
-    "producedByMe": [
-      {
-        "title": "EPO1: KIBWETA NA ONNI SIGALA,Nini tafsiri ya neno SENDOFF kwa kiswahili ?",
-        "category": "Original",
-        "image": "produced-by-me/1.png",
-        "url": "https://www.youtube.com/watch?v=jsecvFCqY8c&list=PLLE24u5DIyAY4t3NraJjMkFOPB2P6ovwe&index=13"
-      },
-      {
-        "title": "Eps2 KISWAHILI: Nini maana ya neno URODA? Watanzania wafunguka, ONNI SIGALA atatua utata",
-        "category": "Health",
-        "image": "produced-by-me/2.png",
-        "url": "https://www.youtube.com/watch?v=Z-iRbkjGLaE&list=PLLE24u5DIyAY4t3NraJjMkFOPB2P6ovwe&index=12"
-      },
-      {
-        "title": "Eps3 KISWAHILI: Nini maana ya DALIO? wananchi waelezawanachokijua, ONNI SIGALA amaliza utata",
-        "category": "Health",
-        "image": "produced-by-me/3.png",
-        "url": "https://www.youtube.com/watch?v=azBmWe2b5Uo&list=PLLE24u5DIyAY4t3NraJjMkFOPB2P6ovwe&index=11"
-      },
-      {
-        "title": "EP04: Denda ni nini? Onni Sigala na wananchi wategua mtego",
-        "category": "Health",
-        "image": "produced-by-me/4.png",
-        "url": "https://www.youtube.com/watch?v=XBtmn0HgfSQ&list=PLLE24u5DIyAY4t3NraJjMkFOPB2P6ovwe&index=10"
-      },
-      {
-        "title": "Kwanini mtu anakosa kujiaminni? (Natural beauty and Self Esteem)",
-        "category": "Youth",
-        "image": "produced-by-me/5.png",
-        "url": "https://youtu.be/qtklv9z4i1c"
+        "title": "Nexttask",
+        "category": "Software Development",
+        "image": "1.png",
+        "url": "https://nexttask.nextbyte.co.tz"
       }
     ]
   },
