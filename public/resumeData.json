@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com/dontito94",
+        "url": "https://github.com/blessedkono",
         "className": "fa fa-github"
       },
       {
@@ -109,12 +109,7 @@
         "image": "1.png",
         "url": "https://psms.co.tz"
       },
-      {
-        "title": "Nexttask",
-        "category": "Software Development",
-        "image": "1.png",
-        "url": "https://nexttask.nextbyte.co.tz"
-      }
+
     ]
   },
   "testimonials": {
